@@ -12,7 +12,7 @@ namespace Core;
 class aa
 {
     public static function index(){
-
+        echo 11;
     }
 
 }

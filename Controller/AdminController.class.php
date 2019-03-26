@@ -10,5 +10,6 @@ class AdminController
 {
     public function index(){
         echo 'admin';
+
     }
 }

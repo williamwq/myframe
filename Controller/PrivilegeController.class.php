@@ -9,6 +9,6 @@ namespace Controller;
 class PrivilegeController
 {
     public function index(){
-        echo 'hellllooo';
+        echo '测试';
     }
 }
